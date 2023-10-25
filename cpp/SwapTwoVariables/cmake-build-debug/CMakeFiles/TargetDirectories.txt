@@ -1,0 +1,3 @@
+C:/Users/m4rti/Projects/learningCpp/SwapTwoVariables/cmake-build-debug/CMakeFiles/SwapTwoVariables.dir
+C:/Users/m4rti/Projects/learningCpp/SwapTwoVariables/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/m4rti/Projects/learningCpp/SwapTwoVariables/cmake-build-debug/CMakeFiles/rebuild_cache.dir
